@@ -7,7 +7,7 @@
   if (frame % 10 === 0) {
     var timesToUpdatePosition = window.performance.getEntriesByName("measure_frame_duration");
     logAverageFrame(timesToUpdatePosition);
-  }```
+  }
 
 ##Who doesn't like delicious pizza?
 
